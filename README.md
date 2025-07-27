@@ -12,12 +12,12 @@ This project implements a Genetic Algorithm (GA) and a Greedy Algorithm to optim
 - Visualization of convergence, CPU usage, execution time, allocation heatmaps, and cost improvement
 
 ## File Structure
-- `GA_Final.ipynb`: Main Jupyter notebook with all code, experiments, and plots
+- `MLPC_GROUP_ASSINGMENT.ipynb`: Main Jupyter notebook with all code, experiments, and plots
 - `dataset.csv`: Input data file (demand, capacity, cost)
 - `README.md`: Project documentation (this file)
 
 ## How to Run
-1. Open `GA_Final.ipynb` in Jupyter Notebook or VS Code.
+1. Open `MLPC_GROUP_ASSINGMENT.ipynb` in Jupyter Notebook or VS Code.
 2. Ensure `dataset.csv` is present in the same directory.
 3. Run all cells to execute the algorithms and generate plots.
 4. Adjust GA parameters in the main block as needed.
